@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.navimg{
+    height: 37px;
+}
+.nave{
+    color: white;
+    background-color: #00000047;
+    border-radius: 2rem;
+    &:hover{
+        cursor: pointer;
+        color: black;
+        background-color: #ffffff46;
+
+    }
+}
+.spacecontainer{
+    min-height: 100vh;
+    background-image: url(../Imagens\ projeto\ onebitX/humanFlight/01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.arrowImg{
+    width: 8rem;
+}
+.humanDiv{
+    margin-top: 11rem;
+}
+.tittle{
+    font-size: 6rem;
+}
+.tittle3{
+    font-weight: 300;
+}
+.secondContainer{
+    min-height: 100vh;
+    background-image: url(../Imagens\ projeto\ onebitX/humanFlight/02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    justify-content: end;
+}
+.headerSecondContainer{
+    width: 97%;
+    font-size: large;
+    font-weight: 300;
+}
+.link{
+    text-decoration: none;
+    color: rgb(168, 199, 251);
+    transition: 0.4s;
+    &:hover{
+        color: rgb(54, 140, 239);
+    }
+}
+.tittle1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.tittle4{
+    font-size: large;
+    font-weight: 300;
+}
+.contentSecond{
+    width: auto;
+    margin: 14rem;
+}
+.thirtContainer{
+    min-height: 100vh;
+    background-image: url(../Imagens\ projeto\ onebitX/humanFlight/03.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contentTecond{
+    width: auto;
+    margin-left: 10rem;
+    padding-top: 12rem;
+}
+
+.fourtContainer{
+    min-height: 100vh;
+    background-image: url(../Imagens\ projeto\ onebitX/humanFlight/04.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    justify-content: end;
+}
+
+.fivenContainer{
+    min-height: 100vh;
+    background-image: url(../Imagens\ projeto\ onebitX/humanFlight/05.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.preFooter{
+    background-color: black;
+    min-width:  50vh;
+    color: white;
+    margin: 16rem auto;
+}
+
+.footitem{
+    text-transform: none;
+    text-decoration: none;
+    color: white;
+    transition: 0.4s;
+
+    &:hover{
+        color: white;
+        font-size: large;
+    }
+}
+

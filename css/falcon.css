@@ -1,0 +1,240 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.navimg {
+  height: 37px;
+}
+
+.nave {
+  color: white;
+}
+.nave:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.spacecontainer {
+  min-height: 100vh;
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/01.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.itemContent {
+  margin-top: 15rem;
+}
+
+.tittle1 {
+  font-size: 7rem;
+  font-weight: 800;
+}
+
+.tittle2 {
+  font-size: 2rem;
+  font-weight: 400;
+  background-image: linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 50%, rgb(0, 0, 0) 59%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: black;
+}
+
+.prethirt {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.tittle3 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.ditem {
+  width: auto;
+  padding: 3rem;
+  margin: 0 2rem;
+}
+
+.tittle1item {
+  font-size: 7rem;
+  font-weight: 500;
+}
+
+.secondContainer {
+  min-height: 100vh;
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/02.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: start;
+}
+
+.falconText {
+  width: 50%;
+  margin-top: 10rem;
+  margin-left: 5rem;
+}
+
+.space {
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  line-height: 3rem;
+  font-weight: 400;
+  font-size: large;
+  text-align: start;
+}
+
+.carroselContainer {
+  min-height: 100vh;
+  background-color: black;
+}
+
+.c1 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/03.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90vh;
+}
+
+.c2 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/04.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.c3 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/05.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.c4 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/06.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.c5 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/07.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.tittle4 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+tr {
+  border-bottom: 0.25rem solid white;
+}
+
+.carrouselItem {
+  margin-top: 11rem;
+}
+
+.tittle5 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.thirtContainer {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/08.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d1 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/09.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d2 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/10.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d3 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/11.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d4 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/12.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d5 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/13.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.d6 {
+  background-image: url(../Imagens\ projeto\ onebitX/falcon9/14.jpg);
+  min-height: 100vh;
+  max-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel-bottom {
+  margin-top: 43%;
+  width: 80%;
+  top: 70%;
+  text-align: center;
+  background-color: black;
+  border-radius: 0.5rem;
+  color: white;
+}
+
+.preFooter {
+  background-color: black;
+  min-width: 50vh;
+  color: white;
+  margin: 16rem auto;
+}
+
+.footitem {
+  text-transform: none;
+  text-decoration: none;
+  color: white;
+  transition: 0.4s;
+}
+.footitem:hover {
+  color: white;
+  font-size: large;
+}
+
+/*# sourceMappingURL=falcon.css.map */
